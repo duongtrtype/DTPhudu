@@ -23,7 +23,7 @@ Why I made this typeface? In the process of learning and crafting types, I have 
 
 ## About
 
-Description of you and/or organisation goes here.
+Duong Tran is a young type designer in Vietnam, who is still wandering and turning what he sees into new ideas.
 
 ## Building
 
