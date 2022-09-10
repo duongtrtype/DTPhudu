@@ -359,7 +359,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* Aring (U+00C5): L<<164.0,700.0>--<396.0,699.0>> 
 
-	* And 55 more.
+	* And 56 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
 </div></details><br></div></details><details><summary><b>[5] DTPhudu-Black.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
