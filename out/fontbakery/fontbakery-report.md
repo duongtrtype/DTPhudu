@@ -11,27 +11,27 @@ Fontbakery version: 0.8.10
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- eight.dnom
-
 	- ellipsis.001
-
-	- five.dnom
-
-	- four.dnom
 
 	- i.loclTRK
 
-	- nine.dnom
+	- uni004A0301
 
-	- one.dnom
+	- uni006A0301
 
-	- seven.dnom
+	- uni013B.loclMAH
 
-	- six.dnom
+	- uni013C.loclMAH
 
-	- three.dnom 
+	- uni0145.loclMAH
 
-	- And 18 more.
+	- uni0146.loclMAH
+
+	- uni03020300
+
+	- uni03020301 
+
+	- And 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -131,27 +131,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- eight.dnom
-
 	- ellipsis.001
-
-	- five.dnom
-
-	- four.dnom
 
 	- i.loclTRK
 
-	- nine.dnom
+	- uni004A0301
 
-	- one.dnom
+	- uni006A0301
 
-	- seven.dnom
+	- uni013B.loclMAH
 
-	- six.dnom
+	- uni013C.loclMAH
 
-	- three.dnom 
+	- uni0145.loclMAH
 
-	- And 18 more.
+	- uni0146.loclMAH
+
+	- uni03020300
+
+	- uni03020301 
+
+	- And 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -251,27 +251,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- eight.dnom
-
 	- ellipsis.001
-
-	- five.dnom
-
-	- four.dnom
 
 	- i.loclTRK
 
-	- nine.dnom
+	- uni004A0301
 
-	- one.dnom
+	- uni006A0301
 
-	- seven.dnom
+	- uni013B.loclMAH
 
-	- six.dnom
+	- uni013C.loclMAH
 
-	- three.dnom 
+	- uni0145.loclMAH
 
-	- And 18 more.
+	- uni0146.loclMAH
+
+	- uni03020300
+
+	- uni03020301 
+
+	- And 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -371,27 +371,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- eight.dnom
-
 	- ellipsis.001
-
-	- five.dnom
-
-	- four.dnom
 
 	- i.loclTRK
 
-	- nine.dnom
+	- uni004A0301
 
-	- one.dnom
+	- uni006A0301
 
-	- seven.dnom
+	- uni013B.loclMAH
 
-	- six.dnom
+	- uni013C.loclMAH
 
-	- three.dnom 
+	- uni0145.loclMAH
 
-	- And 18 more.
+	- uni0146.loclMAH
+
+	- uni03020300
+
+	- uni03020301 
+
+	- And 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -491,27 +491,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- eight.dnom
-
 	- ellipsis.001
-
-	- five.dnom
-
-	- four.dnom
 
 	- i.loclTRK
 
-	- nine.dnom
+	- uni004A0301
 
-	- one.dnom
+	- uni006A0301
 
-	- seven.dnom
+	- uni013B.loclMAH
 
-	- six.dnom
+	- uni013C.loclMAH
 
-	- three.dnom 
+	- uni0145.loclMAH
 
-	- And 18 more.
+	- uni0146.loclMAH
+
+	- uni03020300
+
+	- uni03020301 
+
+	- And 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
