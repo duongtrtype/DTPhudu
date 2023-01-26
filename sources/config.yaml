@@ -1,8 +1,8 @@
 sources:
   - Phudu.glyphs
 familyName: Phudu
-buildStatic: false
+buildStatic: true
 buildVariable: true
 buildOTF: false
 buildTTF: true
-buildWebfont: false
+buildWebfont: true
