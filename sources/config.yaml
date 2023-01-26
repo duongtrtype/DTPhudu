@@ -1,6 +1,8 @@
 sources:
   - DTPhudu.glyphs
-axisOrder:
-  - wght
-  - ital
-familyName: DT Phudu
+familyName: Phudu
+buildStatic: false
+buildVariable: true
+buildOTF: false
+buildTTF: true
+buildWebfont: false
