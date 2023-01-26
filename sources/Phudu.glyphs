@@ -1,9 +1,5 @@
 {
-.appVersion = "3148";
-DisplayStrings = (
-"/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior/zerosuperior ¹2²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior",
-"/Racute playavAIN\012h/hookabovecomb/Ahookabove/ahookabove i/space do/tildecomb Ããn\012án/space ãn/space/ohorntilde/space/ohornacute \012/adotbelow n/space/abreveacute n/space/abrevetilde n\012"
-);
+.appVersion = "3151";
 classes = (
 {
 automatic = 1;
@@ -42855,6 +42851,15 @@ weightClass = Medium;
 widthClass = SemiCondensed;
 },
 {
+interpolationWeight = 140;
+instanceInterpolations = {
+"29C4A576-5D06-4D79-A0A1-2A812E5B89FB" = 0.82857;
+"AAC1BB4D-C727-4C18-8F18-05769E5A021D" = 0.17143;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
 interpolationWeight = 158;
 instanceInterpolations = {
 "29C4A576-5D06-4D79-A0A1-2A812E5B89FB" = 1;
@@ -42864,6 +42869,15 @@ linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 widthClass = SemiCondensed;
+},
+{
+interpolationWeight = 175;
+instanceInterpolations = {
+"29C4A576-5D06-4D79-A0A1-2A812E5B89FB" = 0.46875;
+"58CA432C-E1D8-4E0E-9662-6D1D9C8D1884" = 0.53125;
+};
+name = ExtraBold;
+weightClass = ExtraBold;
 },
 {
 interpolationWeight = 190;
@@ -44148,5 +44162,5 @@ underscore = 9;
 };
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
